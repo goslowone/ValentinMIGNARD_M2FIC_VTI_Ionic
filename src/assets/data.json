@@ -1,0 +1,315 @@
+[
+  {
+    "id": 0,
+    "category": "Males climbers",
+    "title": "Jakob Schubert ",
+    "description": "Il est connu pour avoir remporté sept des dix étapes de la coupe du monde d'escalade de 2012. Cela le plaça premier du classement général de difficulté3 alors qu'il en était deuxième pour la coupe du monde d'escalade de 2010",
+    "imgpath": "assets/img/backgrounds/shubert.jpg",
+    "age": "28",
+    "country": "Autriche, Innsbruck",
+    "taille": "1.75m",
+    "poids": "64kg"
+  },
+  {
+    "id": 1,
+    "category": "Males climbers",
+    "title": "Romain Desgranges",
+    "description": "En 2011, il s’est offert son premier podium en Coupe du Monde, en 2012 il termine 5e du classement général de la Coupe du Monde de difficulté, et enfin, en 2013, c’est le sacre de Chamonix, Romain décroche le titre de Champion d’Europe à domicile et devant son public. En 2018, il remporte le classement général de la coupe du monde de difficulté.",
+    "imgpath": "assets/img/backgrounds/desgranges.jpg",
+    "age": "28",
+    "country": "France, Chamonix",
+    "taille": "1.74m",
+    "poids": "56kg" 
+  },
+  {
+    "id": 2,
+    "category": "Males climbers",
+    "title": "Alexander Megos",
+    "description": "Il est un grimpeur allemand né le 12 août 1991. Il est connu pour avoir réalisé le premier 9a à vue, le 24 mars 2013, à 19 ans, Estado critico au secteur El Pati à Siurana2,3. Il a également réalisé dans la journée, en seulement 3 essais4 la voie Biographie 9a+ à Céüse. À 21 ans, Alex Megos a réalisé plus de 30 voies dans le 9e degré5. Il fait également partie des meilleurs bloqueurs, en ayant réalisé Lucid Dreaming 8C, à Bishop en 2015. Il vit dans le Frankenjura à Erlangen où se trouve son club le Deutscher Alpenverein Erlangen.",
+    "imgpath": "assets/img/backgrounds/megos.jpg",
+    "age": "28",
+    "country": "Allemagne, Erlangen",
+    "taille": "1.74m",
+    "poids": "N/A"
+  },
+  {
+    "id": 3,
+    "category": "Males climbers",
+    "title": "Tomoa Narasaki",
+    "description": "Il né le 22 juin 1996, est un grimpeur japonais spécialiste du bloc. Il a commencé à faire de l’escalade à l’âge de 10 ans avec Sachi Amma, dans la salle d’escalade familiale de Sachi. Auparavant, il s'entraînait à la gymnastique sur appareils. En 2016, il a remporté le championnat du monde de bloc et la coupe du monde de bloc.",
+    "imgpath": "assets/img/backgrounds/narasa.jpg",
+    "age": "22",
+    "country": "Japon, Utsunomiya, Tochigi",
+    "taille": "1.69m",
+    "poids": "60kg"
+  },
+  {
+    "id": 4,
+    "category": "Males climbers",
+    "title": "Sean McColl",
+    "description": "Est né le 3 septembre 1987 au Canada, est un grimpeur professionnel. En compétition, il pratique les trois disciplines de l'escalade : la difficulté, le bloc et la vitesse, ce qui ne rend très polyvalent et un des meilleurs grimpeur de la planète. Après avoir vécu à Vancouver2, puis en France à Toulouse et maintenant à Chambéry.Il est revenu au Canada il y a peu longtemps.",
+    "imgpath": "assets/img/backgrounds/mccoll.jpg",
+    "age": "31",
+    "country": "Canada, Vancouver",
+    "taille": "1.69m",
+    "poids": "60kg" 
+  },
+  {
+    "id": 5,
+    "category": "Males climbers",
+    "title": "Adam Ondra",
+    "description": "Certainement le plus grand grimpeur de l'histoire, il est né le 5 février 1993 à Brno, et est un grimpeur professionnel tchèque. Il commence l'escalade jeune et devient rapidement très réputé notamment pour ses records et la difficulté de ses réalisations. Il est le plus jeune grimpeur à avoir réalisé une voie d'escalade avec une cotation de 8c+ et à avoir atteint le neuvième degré. Il a aussi le record de voies escaladées à vue dans la cotation 8c+ et est l'auteur de nombreuses premières ascensions de voies parmi les plus difficiles du monde, en particulier avec ses trois réalisations annoncées en 9b+, cotation crédibilisée par son expérience dans le 9b. À l'âge de 20 ans, il a réalisé plus de voies dans le neuvième degré que Chris Sharma, Patxi Usobiaga ou encore Dani Andrada qui ont presque le double de l'âge d'Ondra. Il a d'ailleurs été récompensé à quatre reprises lors des Rock Legends Awards, pour ses nombreuses réalisations et il a gagné la coupe du monde d'escalade de difficulté de 2009 et celle de bloc de 2010. En 2018, il réalise la première voie en cotation 9c avec silence",
+    "imgpath": "assets/img/backgrounds/ondra.jpg",
+    "age": "26",
+    "country": "Tchéquie, Brno",
+    "taille": "1.85m",
+    "poids": "68kg"  
+  },
+  {
+    "id": 6,
+    "category": "Males climbers",
+    "title": "Jernej Kruder",
+    "description": "Il est un grimpeur slovène né le 12 décembre 1991. En 2014, il est sacré vice-champion du monde d'escalade de bloc. En novembre 2016, il réalise la première répétition de Es Pontàs à Majorque, voie de psicobloc ouverte en 2007 par Chris Sharma. Il se revèle plus tardivement dans sa carriere mais devient en 2018 vainqueur du classement général de la coupe du monde de bloc se qui en fait maintenant un de meilleur grimpeur de la planèete.",
+    "imgpath": "assets/img/backgrounds/kruger.jpg",
+    "age": "28",
+    "country": "Slovénie, Celje",
+    "taille": "1.80m",
+    "poids": "70kg" 
+  },
+  {
+    "id": 7,
+    "category": "Males climbers",
+    "title": "Chris Sharma",
+    "description": "Il est né le 23 avril 1981 à Santa Cruz en Californie, est un grimpeur professionnel américain. Rapidement repéré par le milieu de l'escalade pour ses réalisations, il devient un des grimpeurs les plus médiatisés. Il a à son actif de nombreuses premières ascensions et notamment la première réalisation d'une voie cotée 9a+/5.15a en 2001 et d'une 9b/5.15b en 2008. Il est aussi l'auteur de plusieurs ascensions renommées en bloc comme Dreamtime (8B+), à Cresciano en Suisse et Witness the Fitness (8C/V15) à Horseshoe Canyon Ranch en Arkansas. Pendant plus d'une dizaine d'années, Sharma a été considéré comme le meilleur grimpeur du monde par de nombreux médias2,3,4,5. Il a aussi contribué de manière significative au développement du bloc et du psicobloc en faisant la promotion de sites comme Bishop ou l'arche d'Es Pontàs.",
+    "imgpath": "assets/img/backgrounds/sharma.jpg",
+    "age": "37",
+    "country": "Etat-Unis, Santa Cruz, Californie",
+    "taille": "1.84m",
+    "poids": "75kg"  
+  },
+  {
+    "id": 8,
+    "category": "Males climbers",
+    "title": "Alex Honnold",
+    "description": "Né le 17 août 1985 à Sacramento, CA, aux États-Unis, est un grimpeur professionnel. Il est notamment réputé pour ses ascensions en solo intégral. Il débute l'escalade à l'âge de 11 ans. Il la pratique essentiellement en intérieur jusqu'à l'âge de 18 ans. À cette époque, il quitte l'université et commence à pratiquer l'escalade en extérieur et rapidement l'escalade en solo intégral. Très rapidement il fait parler de lui en faisant les ascensions de The Rostrum et de Astroman, deux voies de plusieurs longueurs situées dans le parc national de Yosemite, qu'il réalise en solo intégral. Le 15 janvier 2014, au Mexique, il termine la voie El Sendero Luminoso longue de 760 mètres, en solo intégral et en seulement 3 heures. Le 3 juin 2017, il réalise la première ascension du big wall El Capitan en solo intégral, par la voie Freerider en 3 h 56 min",
+    "imgpath": "assets/img/backgrounds/hannold.jpg",
+    "age": "33",
+    "country": "Etat-Unis, Sacramento",
+    "taille": "1.80m",
+    "poids": "73kg"  
+  },
+  {
+    "id": 9,
+    "category": "Females climbers",
+    "title": "Shauna Coxsey",
+    "description": "Elle est née le 27 janvier 1993 à Runcorn au Royaume-Uni, est une grimpeuse professionnelle. Elle est principalement active en compétition et participe à la coupe et aux championnats du monde d'escalade de bloc. Elle a notamment remporté la 9e édition de la compétition Melloblocco en 2012. Elle a également gagné plusieurs coupe du monde et classements général de la coupe de monde bloc.",
+    "imgpath": "assets/img/backgrounds/shauna.jpg",
+    "age": "26",
+    "country": "Angleterre, Sheffield",
+    "taille": "1.63m",
+    "poids": "N/A"
+  },
+  {
+    "id": 10,
+    "category": "Females climbers",  
+    "title": "Janja Garnbret",
+    "description": "Considérée actuellement comme la meilleure grimpeuse du monde, elle est née le 12 mars 1999 à Šmartno pri Slovenj Gradcu, est une grimpeuse slovène, spécialiste d'escalade sportive et de bloc. Compétitrice, elle participe à la Coupe du monde d'escalade depuis 2015 et elle a remporté plusieurs épreuves internationales en difficulté et bloc et est même devenu plusieur fois championne du monde. En extérieur, elle a réalisé de nombreuses voies entre 8b et 9a. ",
+    "imgpath": "assets/img/backgrounds/janja.jpg",
+    "age": "20",
+    "country": "Slovénie",
+    "taille": "1.64m",
+    "poids": "47kg"  
+  },
+  {
+    "id": 11,
+    "category": "Females climbers",
+    "title": "Miho Nonaka",
+    "description": "Elle est née le 21 mai 1997, est une grimpeuse japonaise, spécialisée dans le bloc. Après plusieurs années sur le circuit international, elle est en 2018 l'une des meilleures grimpeuses mondiales, notamment en remportant le classement général de bloc en 2018, et a notamment remporté la quatrième place de la coupe du monde d'escalade de 2017 en bloc",
+    "imgpath": "assets/img/backgrounds/miho.jpg",
+    "age": "21",
+    "country": "Japon, Tokyo",
+    "taille": "1.62m",
+    "poids": "53kg" 
+  },
+  {
+    "id": 12,
+    "category": "Females climbers",
+    "title": "Akiyo Noguchi",
+    "description": "Une grimpeuse japonaise née en 1989. Elle remporte la médaille d'or lors de la sixième étape de la Coupe du monde d'escalade de bloc à Eindhoven. Le 3 juillet 2011, lors de la 8e étape de la Coupe du Monde de bloc 2011 à Sheffield, elle finit 1re de la finale, juste devant la Française Mélissa Le Nevé et l'américaine Alex Puccio. En décembre 2013, elle enchaine son premier 8c/8c+ avec Mind control à la falaise d’Oliana, en Catalogne.",
+    "imgpath": "assets/img/backgrounds/akiyo.jpg",
+    "age": "29",
+    "country": "Japon, Préfecture d'Ibaraki",
+    "taille": "1.65m",
+    "poids": "N/A" 
+  },
+  {
+    "id": 13,
+    "category": "Females climbers",
+    "title": "Fanny Gibert",
+    "description": "Est née le 16 février 1993 à Montpellier, est une grimpeuse de bloc française. Fanny Gibert est originaire de Montpellier et a grandi à La Réunion. Elle débute l'escalade à dix ans1. Elle pratique d'abord au club 7 à l'Ouest, à la Réunion. Elle est en 2018 licenciée à Vertical'Art, en région parisienne2. En parallèle de sa carrière sportive, Fanny est en 2018 étudiante en dernière année d'école d'ingénieur, où elle bénéficie d'un emploi du temps aménagé, réalisant le cursus en huit ans au lieu de cinq. Elle réalise de très bonnes performances début 2018 : après avoir décroché son troisième titre de championne de France, elle se qualifie deux fois de suite en finale de coupe du monde en avril, à Meiringen et à Moscou, où elle termine à la cinquième place les deux fois.",
+    "imgpath": "assets/img/backgrounds/fanny.jpg",
+    "age": "26",
+    "country": "France, Massy",
+    "taille": "1.66m",
+    "poids": "N/A" 
+  },
+  {
+    "id": 14,
+    "category": "Females climbers",
+    "title": "Alex Puccio",
+    "description": "Alex Puccio, née le 15 juin 1989 à McKinney dans l'État du Texas aux États-Unis, est une grimpeuse professionnelle. Elle est plus particulièrement spécialisée dans l'escalade de bloc. Elle est notamment connue pour avoir une grande force, ce qui lui permet de réaliser des projets généralement réservés aux hommes. Elle participe régulièrement au championnat national de bloc des États-Unis et à la coupe du monde de la Fédération internationale d'escalade. Elle a notamment fini 3e au classement général de la coupe du monde d'escalade de bloc en 2011 et a gagné neuf fois les American Bouldering Series. ",
+    "imgpath": "assets/img/backgrounds/puccio.jpg",
+    "age": "29",
+    "country": "Etat-Unis, Texas",
+    "taille": "1.57m",
+    "poids": "57kg" 
+  },
+  {
+    "id": 15,
+    "category": "Females climbers",
+    "title": "Mélanie Sandoz",
+    "description": "Elle est née le 6 février 1981 à Vesoul, est une des meilleure spécialiste française de l'escalade de bloc, une fois championne du monde le 16 septembre 2012 au Palais omnisports de Paris-Bercy, et une fois championne de France",
+    "imgpath": "assets/img/backgrounds/sandoz.jpg",
+    "age": "32",
+    "country": "France, Evry",
+    "taille": "1.70m",
+    "poids": "53kg" 
+  },
+{
+    "id": 16,
+    "category": "Females climbers",
+    "title": "Anouck Jaubert",
+    "description": "Née le 27 janvier 1994, est une grimpeuse française. Elle est membre de l'équipe de France d'escalade de vitesse depuis 2011. En 2015, elle réussit à faire partie des quatre meilleures grimpeuses lors des cinq étapes de coupe du monde. Elle remporte deux médailles d'or dans ce circuit, et dispute avec deux grimpeuses russes le classement général lors de l'ultime étape. Elle remporte la médaille d'argent lors de cette étape décisive, et finit deuxième au classement général de la coupe du monde de 2015. En 2018 elle devient championne du monde de la discipline.",
+    "imgpath": "assets/img/backgrounds/anouck.jpg",
+    "age": "25",
+    "country": "France, grenoble",
+    "taille": "N/A",
+    "poids": "N/A" 
+  },
+  {
+    "id": 17,
+    "category": "Spot indoor",
+    "title": "Innsbruck - Autriche",
+    "description": "Innsbruckles est une des plus grande sale d'escalade indoor et outdoor du monde. Avec ses trois imposantes tours d'escalade se dressant en plein air. Et vous serez étonné de voir ce que l’intérieur du centre d’escalade d’Innsbruck a à offrir! Vous avez le choix entre 500 voies d'escalade et 200 possibilités d'escalade. L'endroit est également un lieu de compétition moderne et à notamment accueillis les championnats du monde 2018.",
+    "imgpath": "assets/img/backgrounds/innsbruck.jpg"
+  },
+  {
+    "id": 18,
+    "category": "Spot outdoor",
+    "title": "El Capitan",
+    "description": "El Capitan est une formation rocheuse verticale de 900 m de haut située dans la vallée de Yosemite aux États-Unis, très connue dans le monde de l'escalade. Le sommet d'El Capitan peut être atteint par un chemin de randonnée depuis les chutes de Yosemite en se dirigeant vers l'ouest. Pour les grimpeurs, le défi consiste à grimper le big wall granitique. Il existe des douzaines de voies d'escalade à travers la paroi, toutes longues et difficiles.",
+    "imgpath": "assets/img/backgrounds/capitan.jpg"
+  },
+  {
+    "id": 19,
+    "category": "Spot outdoor",
+    "title": "Céüse",
+    "description": "Céüse est une paroi de légende, qui a tenu l’un des grands rôles dans un chapitre mythique de l’histoire de l’escalade, avec les ascensions mythiques réalisées à une époque mythique par des grimpeurs mythiques (Patrick Edlinger, Jean-Christophe Lafaille...). Et ça continue, tout pareil, sauf que la voie mythique est maintenant la surmédiatique Biographie (9a+) ouverte par J.-C. Lafaille, et qu’elle a vu passer les plus grands noms du haut niveau moderne dans le sillage de Chris Sharma, le premier à l’avoir enchainée en 2001. Mais pas seulement, parce que la falaise n’est pas réservée à une élite, et qu’elle ne comporte pas qu’une seule voie, mais environ 400, réparties en quatorze secteurs dans des difficultés s’échelonnant du 5a au 9a+.",
+    "imgpath": "assets/img/backgrounds/ceuse.jpg" 
+  },
+  {
+    "id": 20,
+    "category": "Spot outdoor",
+    "title": "Fontainebleau",
+    "description": "Est-il vraiment nécessaire de présenter Fontainebleau? Ceux qui connaissent n’ont pas besoin qu’on leur présente. Et ceux qui ne connaissent pas en ont tellement entendu parler que c’est un peu comme s’ils connaissaient. Mais il faut absolument y aller.» Et en effet, pour les blocs de la forêt de Fontainebleau, des grimpeurs traversent la France entière, les frontières, les océans! Et s’ils savaient comment faire, il en viendrait même de l’autre bout de la galaxie. Fontainebleau est un monde en soi. À tel point qu’on y parle même un dialecte local. La forêt se dit «LA» forêt, Fontainebleau se dit Bleau et grimpeur se dit Bleausard.",
+    "imgpath": "assets/img/backgrounds/bleau.jpg" 
+  },
+  {
+    "id": 21,
+    "category": "Spot outdoor",
+    "title": "Magic Wood",
+    "description": "Endroit maintenant connu mondialement, Magic Wood est un lieu de pèlerinage pour tout grimpeur amoureux du bloc. Situé à flanc de falaise aux abords d’une rivière, les blocs sont présents par milieu dans ce lieu. Le rocher sur lequel nous grimpons est du gneiss et les formes varies du tout au tout. Vous retrouverez des plats, des règles, des trous et dans tous les inclinaisons possible, dalle, vertical, léger devers, gros dévers, toit et j’en passe surement. Encore un endroit magique à découvrir et redécouvrir qui a eu sa part de belle ascension dans l’histoire de l’escalade : The Riverbed, 3eme bloc féminin en 8B par Anna Stöhr et New Base line, 3eme bloc féminin en 8B+ par Shauna Coxsey.",
+    "imgpath": "assets/img/backgrounds/magic.jpg" 
+  },
+  {
+    "id": 22,
+    "category": "Spot outdoor",
+    "title": "Flathanger",
+    "description": "Située en Norvège, cette grotte norvégienne agite depuis 2012 le petit monde de l’escalade, puisqu’elle est le théâtre des exploits du génie tchèque Adam Ondra. Adam a jeté son dévolu sur cette grotte de gneiss granitique depuis près de 6 ans, et bon nombre de grimpeurs ont découvert à sa suite ce petit bijou classé parmi les dévers les plus durs au monde. En ouvrant « Silence », le premier 9c de l’histoire — une histoire qu’il nous racontait dans notre sixième volume papier — Adam a fait de cette grotte norvégienne isolée un incontournable du genre. Si le dévers de la grotte reste élitiste, il existe également de nombreuses voies plus faciles en dehors de la grotte sur ce même granite irréprochable.",
+    "imgpath": "assets/img/backgrounds/norvege.jpg" 
+  },
+  {
+    "id": 23,
+    "category": "Spot outdoor",
+    "title": "Les gorges du Verdon",
+    "description": "Pas moins de 60 années d’histoire de l’escalade suintent de ses majestueuses parois, mais ce sont les dernières décennies qui parlent le plus au commun des grimpeurs, avec des événements qui commencent à nous intéresser vraiment à la fin des années 1960. Le Verdon, c'est la falaise de tous les superlatifs, le seule, l’unique, la vraie, c’est celle-là. La plus grande, la plus belle, la plus vertigineuse, la plus mythique, la plus grise, la plus blanche, la plus sauvage, la plus fréquentée, la plus fascinante, la plus inoubliable, la plus historique, la plus initiatique, la plus touristique, la plus oubliée, la plus verdonesque...",
+    "imgpath": "assets/img/backgrounds/verdon.jpg" 
+  },
+  {
+    "id": 24,
+    "category": "Spot outdoor",
+    "title": "Buoux",
+    "description": "Buoux est une falaise située dans le Vaucluse, c’est un terreau où ont poussé des voies d’exception, où ont grandi des grimpeurs hors norme, où s’est écrit le grand feuilleton à suspense de l’escalade. Il y a quelque chose de magique et d’initiatique dans ce caillou. Peut-être même d’envoûtant...",
+    "imgpath": "assets/img/backgrounds/verdon.jpg" 
+  },
+  {
+    "id": 25,
+    "category": "Spot outdoor",
+    "title": "Les calanques de Marseille",
+    "description": "On ne présente plus le calcaire blanc et compact des Calanques... L’escalade s’y pratique sous divers styles, qui comportent les grandes envolées de plusieurs longueurs, les voies plus courtes et teigneuses, souvent exigeantes, les inoubliables traversées quelques mètres au-dessus des vagues, ou encore les grottes et dévers ocres abritant les voies les plus physiques et souvent les plus difficiles. L’ensemble du site compte plus de 3.000 voies et couvre une telle immensité minérale que l’on y revient toujours plusieurs fois.",
+    "imgpath": "assets/img/backgrounds/calanques.jpg" 
+  },
+  {
+    "id": 26,
+    "category": "Spot outdoor",
+    "title": "Rocklands",
+    "description": "Tellement de louanges ont été écrites sur Rocklands ... et chaque été, toutes ces vidéos postées sur le web dévoilant des blocs aux couleurs jaunes, oranges, gris, ocres, noirs : magnifiques !, avec des grimpeurs talentueux heureux. Il y a aussi les amis qui en reviennent et qui ne tarissent jamais d'éloges. Ils jurent tous qu'ils y retourneront au milieu de monologues remplis de superlatifs et d'adjectifs positifs à propos DU site de bloc d'Afrique du Sud.",
+    "imgpath": "assets/img/backgrounds/rocklands.jpg" 
+  },
+  {
+    "id": 27,
+    "category": "Spot indoor",
+    "title": "Sheffield - UK",
+    "description": "Sheffield est la capitale de l'escalade au Royaume-Uni. Pendant longtemps, c’était le plus grand centre de bloc au monde, on peut dire qu’il abrite toujours les meilleurs murs de blocs intérieurs au monde. Lors de son ouverture en décembre 2006, Climbing Works est devenu le premier centre dédié au bloc au Royaume-Uni avec 1500 m² de surface d'escalade répartis sur deux bâtiments. Il a déjà accueilli les Championnats britanniques de bloc et organisé son propre festival international Climbing Works chaque année.",
+    "imgpath": "assets/img/backgrounds/sheffield.jpg" 
+  },
+  {
+    "id": 28,
+    "category": "Spot indoor",
+    "title": "Boulder - USA",
+    "description": "Avec un nom comme Boulder, vous allez sûrement trouver l'un des meilleurs murs d'escalade de bloc au monde dans cette ville du Colorado orientée vers le plein air. Le Spot Bouldering Gym a été le premier centre de bloc dédié aux blocs d'intérieur à s'ouvrir aux États-Unis. Ils ont 15 000 pieds carrés de surfaces d'escalade sur deux rochers géants et quatre murs. La meilleure partie de ce mur d'escalade est qu'ils ont des zones thématiques après des zones d'escalade réelles, telles que les Font et Hueco Boulder et le mur de Yosemite.",
+    "imgpath": "assets/img/backgrounds/boulder.jpg" 
+  },
+  {
+    "id": 29,
+    "category": "Spot indoor",
+    "title": "Sharma Climbing - Barcelone",
+    "description": "En 2015, Chris Sharma, un des meilleur grimpeur professionnel au monde, a ouvert un nouveau centre d'escalade dans sa ville natale, Barcelone. Sharma Climbing dispose d'un fantastique éventail de murs d'escalade avec une bonne gamme de cales pour débutants et experts. Chris espère que Sharma Climbing Barcelona sera «un centre international où les gens pourront se rencontrer et partager leurs idées et leur motivation». Une visite incontournable si vous vous retrouvez à Barcelone. Gardez les yeux ouverts, vous verrez probablement Chris lui-même.",
+    "imgpath": "assets/img/backgrounds/sharma_salle.jpg" 
+  },
+  {
+    "id": 30,
+    "category": "Spot indoor",
+    "title": "Café Kraft - Allemagne",
+    "description": "C'est une des plus ancienne salle de bloc du monde. Située initailement à Nuremberg puis à stuttgart, les meilleurs grimpeurs du monde la fréquente régulierement, pour des séances d’entraînement bien moyenâgeuses. Alors derniers gourous à la mode ou coachs super pointus ? La Fabrique verticale a tenté d’en savoir plus.",
+    "imgpath": "assets/img/backgrounds/cafe.jpg" 
+  },
+  {
+    "id": 31,
+    "category": "Spot indoor",
+    "title": "Block'Out - France",
+    "description": "Block'Out est une franchise déposée et leader des salles d'escalade privée en France depuis 2008. La marque possède plus d'une dizaine de salles dans toute la France dont trois en région parisienne.",
+    "imgpath": "assets/img/backgrounds/BO.jpg" 
+  },
+  {
+    "id": 32,
+    "category": "Spot indoor",
+    "title": "B-pump - Tokyo",
+    "description": "B-pump est la référence des salles d'escalade au Japon, une des meilleure nation actuelle de l'escalade sportive. Avec plus de 5 salles dans la pays et le plus grand gymnase de bloc au Japon proposant le meilleur magasin professionnel pour tous les types d'escalade. En mars 2013, nous avons eu une promotion révolutionnaire 'Space Boulder'. Les gérants de cette structure se ventent de faire des choses qui n'ont jamais été faites auparavant.",
+    "imgpath": "assets/img/backgrounds/BP.jpg" 
+  },
+  {
+    "id": 33,
+    "category": "Spot indoor",
+    "title": "Karma - Fontainebleau",
+    "description": "À deux pas des blocs mythiques de la forêt de Fontainebleau, Karma est la première salle d’escalade fédérale française ouverte à tous. C’est aussi un lieu d’excellence sportive où s’entraine l’équipe de France de bloc.",
+    "imgpath": "assets/img/backgrounds/karma.jpg" 
+  }
+  
+  
+  
+  
+  
+  
+  
+]

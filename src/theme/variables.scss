@@ -1,0 +1,50 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/v2/theming/
+$font-path: "../assets/fonts";
+
+@import "ionic.globals";
+
+/* Typograhpy */
+$base-font-size: 18px;
+$base-line-height: 1.58;
+$base-font-weight: 400;
+$base-letter-spacing: -.028em;
+
+$headline-line-height: 1.1;
+$headline-font-weight: 700;
+$headline-letter-spacing: 0.028em;
+
+// Font weights
+$light: 300;
+$regular: 400;
+$medium: 500;
+$bold: 700;
+
+
+// General 
+$littlepadding: 2rem;
+$smallpadding: 10px 0 10px 0;
+
+// Color Variables
+$primary:      #000;
+$light-grey:   #f8f8f8;
+$grey:         #e3e3e3;
+$white:        #fff;
+$yellow:       #ffd148;
+$blue:         #4155b4;
+$light-black:  #424242;
+$black:        #000;
+$red:          #8a0000;
+$purple:       #5b507a;
+
+// App Theme
+@import "ionic.theme.default";
+
+
+// Ionicons
+@import "ionic.ionicons";
+
+
+// Fonts
+@import "roboto";
+@import "noto-sans";
