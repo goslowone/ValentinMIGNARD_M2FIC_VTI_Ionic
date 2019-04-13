@@ -7,8 +7,8 @@ De plus, un systeme de recherche est implémenté via un loader qui laisse appar
 ## Getting Started
 
 Pour commencer à utiliser cette application; vous devez choisir entre:
-      - Download la derniere release du projet au format zip ici :  LINK
-      - Cloner le repository via la commande : $ git clone LINK
+      - Download la derniere release du projet au format zip ici :  https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic
+      - Cloner le repository via la commande : $ git clone https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic.git
 
 
 ### Project Structure
@@ -42,6 +42,7 @@ Pour commencer à utiliser cette application; vous devez choisir entre:
 
 
 ##### Start the project
+```
 Le projet se lance avec les commandes basiques d'Ionic
 
 1. Ouvrir un invide de commande unix de type terminal.
@@ -52,8 +53,10 @@ Le projet se lance avec les commandes basiques d'Ionic
       - 'ionic build ios' pour un mobile IOS (à privilégier sur MacOs).
 
 Une alternative consiste à émuler l'application sur un appareil ou à l'uploader sur le ionic cloud. À partir de là, vous pouvez télécharger l'application ionic view et l'utiliser sur tous les appareils.
+```
 
 ###### Plugins
+```
 UI et back components utilisés dans cette application:
       - List : avec les balises "ion-list" et "ion-avatar" pour les images 
       - Item : avec les balises "ion-item" et "ion-label"
@@ -61,3 +64,4 @@ UI et back components utilisés dans cette application:
       - Platform : pour détecter la pateforme (mobile ou ordinateur) et ainsi adapter l'affichage de façon optimale
       - SplashScreen
       - StatusBar 
+```
