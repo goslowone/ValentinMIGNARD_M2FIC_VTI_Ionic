@@ -5,11 +5,11 @@ De plus, un systeme de recherche est implémenté via un loader qui laisse appar
 
 
 ## Getting Started
-'''
+```
 Pour commencer à utiliser cette application; vous devez choisir entre:  
-      - Download la derniere release du projet au format zip ici : https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic  
-      - Cloner le repository via la commande : $ git clone https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic.git
-'''
+      - Download la derniere release du projet au format zip ici :  https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic 
+      - Cloner le repository via la commande :  $ git clone https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic.git
+```
 
 ## Project Structure
 ```
@@ -67,6 +67,6 @@ UI et back components utilisés dans cette application:
 ```
 
 ## More informations
-'''
+```
 Deux répertoires contenants des screenshoot se trouve ici : /www/assets/img , permettant dans le cas ou il vous est impossible de run l'application d'en avoir un aperçu. 
-'''
+```
