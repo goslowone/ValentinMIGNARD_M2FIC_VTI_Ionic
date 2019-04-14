@@ -6,8 +6,8 @@ De plus, un systeme de recherche est implémenté via un loader qui laisse appar
 
 ## Getting Started
 
-Pour commencer à utiliser cette application; vous devez choisir entre:
-      + Download la derniere release du projet au format zip ici :  https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic
+Pour commencer à utiliser cette application; vous devez choisir entre:  
+      + Download la derniere release du projet au format zip ici :  https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic  
       + Cloner le repository via la commande : $ git clone https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic.git
 
 
@@ -58,12 +58,12 @@ Une alternative consiste à émuler l'application sur un appareil ou à l'upload
 ## Plugins
 ```
 UI et back components utilisés dans cette application:
-      + List : avec les balises "ion-list" et "ion-avatar" pour les images 
-      + Item : avec les balises "ion-item" et "ion-label"
-      + Tabs : avec la balise "ion-tabs" permettant de faire plusieurs onglets (ici Home et Search)
-      + Platform : pour détecter la pateforme (mobile ou ordinateur) et ainsi adapter l'affichage de façon optimale
-      + SplashScreen
-      + StatusBar 
++ List : avec les balises "ion-list" et "ion-avatar" pour les images 
++ Item : avec les balises "ion-item" et "ion-label"
+      - Tabs : avec la balise "ion-tabs" permettant de faire plusieurs onglets (ici Home et Search)
+      - Platform : pour détecter la pateforme (mobile ou ordinateur) et ainsi adapter l'affichage de façon optimale
+      - SplashScreen
+      - StatusBar 
 ```
 
 ## More informations
