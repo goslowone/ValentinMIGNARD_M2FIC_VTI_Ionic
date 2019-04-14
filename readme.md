@@ -7,11 +7,11 @@ De plus, un systeme de recherche est implémenté via un loader qui laisse appar
 ## Getting Started
 
 Pour commencer à utiliser cette application; vous devez choisir entre:
-      - Download la derniere release du projet au format zip ici :  https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic
-      - Cloner le repository via la commande : $ git clone https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic.git
+      + Download la derniere release du projet au format zip ici :  https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic
+      + Cloner le repository via la commande : $ git clone https://github.com/goslowone/ValentinMIGNARD_M2FIC_VTI_Ionic.git
 
 
-### Project Structure
+## Project Structure
 ```
 .
  ├── resources                    # Build les fichiers pour les plateformes spécifique (iOS, Android) 
@@ -23,7 +23,7 @@ Pour commencer à utiliser cette application; vous devez choisir entre:
  └── tslint.json                  # TypeScript linting options
 ```
 
-#### src directory
+## src directory
 ```
 .
    ├── ...
@@ -41,7 +41,7 @@ Pour commencer à utiliser cette application; vous devez choisir entre:
 ```
 
 
-##### Start the project
+## Start the project
 ```
 Le projet se lance avec les commandes basiques d'Ionic
 
@@ -55,13 +55,18 @@ Le projet se lance avec les commandes basiques d'Ionic
 Une alternative consiste à émuler l'application sur un appareil ou à l'uploader sur le ionic cloud. À partir de là, vous pouvez télécharger l'application ionic view et l'utiliser sur tous les appareils.
 ```
 
-###### Plugins
+## Plugins
 ```
 UI et back components utilisés dans cette application:
-      - List : avec les balises "ion-list" et "ion-avatar" pour les images 
-      - Item : avec les balises "ion-item" et "ion-label"
-      - Tabs : avec la balise "ion-tabs" permettant de faire plusieurs onglets (ici Home et Search)
-      - Platform : pour détecter la pateforme (mobile ou ordinateur) et ainsi adapter l'affichage de façon optimale
-      - SplashScreen
-      - StatusBar 
+      + List : avec les balises "ion-list" et "ion-avatar" pour les images 
+      + Item : avec les balises "ion-item" et "ion-label"
+      + Tabs : avec la balise "ion-tabs" permettant de faire plusieurs onglets (ici Home et Search)
+      + Platform : pour détecter la pateforme (mobile ou ordinateur) et ainsi adapter l'affichage de façon optimale
+      + SplashScreen
+      + StatusBar 
 ```
+
+## More informations
+'''
+Deux répertoires contenants des screenshoot se trouve ici : /www/assets/img , permettant dans le cas ou il vous est impossible de run l'application d'en avoir un aperçu. 
+'''
